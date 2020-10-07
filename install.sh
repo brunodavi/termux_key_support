@@ -1,3 +1,3 @@
 rm -fr ~/.termux
-mv .termux ~/
+cp .termux ~/
 termux-reload-settings
