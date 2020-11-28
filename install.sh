@@ -1,4 +1,4 @@
 rm -fr ~/.termux
 
-cp .termux ~/
+cp -r .termux ~/
 termux-reload-settings
